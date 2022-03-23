@@ -5,3 +5,7 @@ The data that is presented includes two charts with stock information on 12 diff
 
 The Advantages of Refactoring Stock Analysis
 The biggest benefit that occurred as a result of the refactoring was an decrease in macro run time
+
+
+![2017](https://user-images.githubusercontent.com/99819387/159811276-b57b8869-0202-4148-9b5f-a558f2cd845f.png)
+![2018](https://user-images.githubusercontent.com/99819387/159811285-3f14b174-e400-46b0-9575-96d56443c5f4.png)
